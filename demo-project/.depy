@@ -6,7 +6,7 @@ keep_releases=4
 
 # List of shared files and folders which are kept between releases
 shared=(
-    logs
+    .env
     shared
 )
 
